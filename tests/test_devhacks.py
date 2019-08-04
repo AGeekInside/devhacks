@@ -1,4 +1,4 @@
-from sethlans import __version__
+from devhacks import __version__
 
 
 def test_version():

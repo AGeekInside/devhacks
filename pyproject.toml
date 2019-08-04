@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "sethlans"
+name = "devhacks"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Marc Brooks <marcwbrooks@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
