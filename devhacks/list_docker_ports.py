@@ -1,4 +1,12 @@
 #!/usr/bin/env python3
+"""list_docker_ports.py - List all exposed/mapped ports for Docker containers.
+
+Usage:
+    python list_docker_ports.py
+
+Requires:
+    pip install docker
+"""
 import docker
 
 def list_exposed_ports():

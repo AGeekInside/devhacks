@@ -1,3 +1,11 @@
+"""remove_every_other_file.py - Remove every other file (even-indexed) from a directory.
+
+Usage:
+    python remove_every_other_file.py <directory>
+
+Warning:
+    Destructive operation — removes files permanently (no trash/undo).
+"""
 import os
 import sys
 
